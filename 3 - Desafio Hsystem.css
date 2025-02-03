@@ -1,0 +1,13 @@
+/*Escreva um código CSS para alterar a cor do botão de azul para vermelho com a letra em azul escuro. */ 
+
+.CardBestPrice a.btn {
+    background-color: red;
+    color: #1a3d5d;
+}
+
+/* Escreva um código CSS para alterar a cor do botão de vermelho para azul com a letra em vermelho quando passado o mouse em cima. */
+
+.CardBestPrice a.btn:hover {
+    background-color: blue;
+    color: red;
+}
